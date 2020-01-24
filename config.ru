@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Guten Tach to your ImageStream Demo on OpenShift Dear Microsoft Team!!!!</h1>
+            <h1>Guten Tag to your ImageStream Demo on OpenShift Dear Microsoft Team!!!!</h1>
           </hgroup>
 
 
