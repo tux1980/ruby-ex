@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>V4!!! Hello Goethe Institut to your ImageStream Demo on OpenShift. How are you today?</h1>
+            <h1>V5!!! Hello Goethe Institut to your ImageStream Demo on OpenShift. How are you today?</h1>
           </hgroup>
 
 
